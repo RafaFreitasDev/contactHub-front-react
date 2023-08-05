@@ -10,3 +10,7 @@
 npm install (para instalar dependencias)
 
 npm run dev (para rodar o projeto)
+
+## Informações
+
+este projeto roda com as APIs **contactHub-back-express** e **contactHub-back-nest** presentes nest GitHub

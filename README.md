@@ -1,3 +1,4 @@
+- **BACKEND URL:** `https://contacthub-nest.onrender.com`
 # PARA RODAR O PROJETO
 
 ## Requisitos
